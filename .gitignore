@@ -1,0 +1,8 @@
+# ignore all .pdf files 
+*.pdf
+
+# only ignore the TODO file in the current directory, not subdir/TODO
+templates_c/
+
+# ignore all .pdf files 
+*.sql
